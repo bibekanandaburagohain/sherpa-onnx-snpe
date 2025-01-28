@@ -1,0 +1,3 @@
+/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldi_decoder-subbuild/CMakeFiles/kaldi_decoder-populate.dir
+/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldi_decoder-subbuild/CMakeFiles/edit_cache.dir
+/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldi_decoder-subbuild/CMakeFiles/rebuild_cache.dir

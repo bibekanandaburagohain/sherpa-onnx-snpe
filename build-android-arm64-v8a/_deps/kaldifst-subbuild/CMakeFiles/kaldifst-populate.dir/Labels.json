@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/CMakeFiles/kaldifst-populate"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/CMakeFiles/kaldifst-populate.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/CMakeFiles/kaldifst-populate-complete.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/kaldifst-populate-prefix/src/kaldifst-populate-stamp/kaldifst-populate-build.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/kaldifst-populate-prefix/src/kaldifst-populate-stamp/kaldifst-populate-configure.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/kaldifst-populate-prefix/src/kaldifst-populate-stamp/kaldifst-populate-download.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/kaldifst-populate-prefix/src/kaldifst-populate-stamp/kaldifst-populate-install.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/kaldifst-populate-prefix/src/kaldifst-populate-stamp/kaldifst-populate-mkdir.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/kaldifst-populate-prefix/src/kaldifst-populate-stamp/kaldifst-populate-patch.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/kaldifst-populate-prefix/src/kaldifst-populate-stamp/kaldifst-populate-test.rule"
+		},
+		{
+			"file" : "/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/kaldifst-subbuild/kaldifst-populate-prefix/src/kaldifst-populate-stamp/kaldifst-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kaldifst-populate"
+		],
+		"name" : "kaldifst-populate"
+	}
+}

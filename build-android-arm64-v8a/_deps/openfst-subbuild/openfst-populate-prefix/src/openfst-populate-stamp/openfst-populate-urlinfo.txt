@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/home/Bibekananda-PC/miniconda3/lib/python3.11/site-packages/cmake/data/bin/cmake;-P;/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/download-openfst-populate.cmake;COMMAND;/home/Bibekananda-PC/miniconda3/lib/python3.11/site-packages/cmake/data/bin/cmake;-P;/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/verify-openfst-populate.cmake;COMMAND;/home/Bibekananda-PC/miniconda3/lib/python3.11/site-packages/cmake/data/bin/cmake;-P;/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/extract-openfst-populate.cmake
+source_dir=/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/openfst-src
+work_dir=/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps
+url(s)=https://github.com/kkm000/openfst/archive/refs/tags/win/1.6.5.1.tar.gz;https://huggingface.co/csukuangfj/kaldi-hmm-gmm-cmake-deps/resolve/main/openfst-win-1.6.5.1.tar.gz
+hash=SHA256=02c49b559c3976a536876063369efc0e41ab374be1035918036474343877046e
+no_extract=
+

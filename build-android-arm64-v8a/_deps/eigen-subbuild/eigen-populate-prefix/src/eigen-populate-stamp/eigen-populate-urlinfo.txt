@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/home/Bibekananda-PC/miniconda3/lib/python3.11/site-packages/cmake/data/bin/cmake;-P;/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/eigen-subbuild/eigen-populate-prefix/src/eigen-populate-stamp/download-eigen-populate.cmake;COMMAND;/home/Bibekananda-PC/miniconda3/lib/python3.11/site-packages/cmake/data/bin/cmake;-P;/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/eigen-subbuild/eigen-populate-prefix/src/eigen-populate-stamp/verify-eigen-populate.cmake;COMMAND;/home/Bibekananda-PC/miniconda3/lib/python3.11/site-packages/cmake/data/bin/cmake;-P;/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/eigen-subbuild/eigen-populate-prefix/src/eigen-populate-stamp/extract-eigen-populate.cmake
+source_dir=/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps/eigen-src
+work_dir=/media/Bibekananda-PC/c7c38480-8b5a-4d19-ad07-57124994f819/android/sherpa-onnx-qnn/build-android-arm64-v8a/_deps
+url(s)=https://gitlab.com/libeigen/eigen/-/archive/3.4.0/eigen-3.4.0.tar.gz
+hash=SHA256=8586084f71f9bde545ee7fa6d00288b264a2b7ac3607b974e54d13e7162c1c72
+no_extract=
+
