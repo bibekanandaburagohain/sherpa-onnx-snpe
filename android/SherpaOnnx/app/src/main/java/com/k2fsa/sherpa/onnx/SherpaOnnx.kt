@@ -292,38 +292,14 @@ fun getModelConfig(type: Int): OnlineModelConfig? {
             return OnlineModelConfig(
                 transducer = OnlineTransducerModelConfig(
                     encoder = "$modelDir/encoder-epoch-4-avg-1.fix.dlc",
-                    decoder = "$modelDir/decoder-epoch-4-avg-1.fix.onnx",
-                    joiner = "$modelDir/joiner-epoch-4-avg-1.fix.onnx",
+                    decoder = "$modelDir/decoder-epoch-4-avg-1.fix.dlc",
+                    joiner = "$modelDir/joiner-epoch-4-avg-1.fix.dlc",
                 ),
                 tokens = "$modelDir/tokens.txt",
                 modelType = "zipformer2-snpe",
             )
         }
-        10 -> {
-            val modelDir = "custom-model"
-            return OnlineModelConfig(
-                transducer = OnlineTransducerModelConfig(
-                    encoder = "$modelDir/encoder-epoch-30-avg-5-with-averaged-model.onnx",
-                    decoder = "$modelDir/decoder-epoch-30-avg-5-with-averaged-model.onnx",
-                    joiner = "$modelDir/joiner-epoch-30-avg-5-with-averaged-model.onnx",
-                ),
-                tokens = "$modelDir/tokens.txt",
-                modelType = "zipformer",
-            )
-        }
-
-        11 -> {
-            val modelDir = "lid-model"
-            return OnlineModelConfig(
-                transducer = OnlineTransducerModelConfig(
-                    encoder = "$modelDir/encoder-epoch-22-avg-5-with-averaged-model.onnx",
-                    decoder = "$modelDir/decoder-epoch-22-avg-5-with-averaged-model.onnx",
-                    joiner = "$modelDir/joiner-epoch-22-avg-5-with-averaged-model.onnx",
-                ),
-                tokens = "$modelDir/tokens.txt",
-                modelType = "zipformer",
-            )
-        }
+        
     }
     return null;
 }
